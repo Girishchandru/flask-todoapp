@@ -1,0 +1,2 @@
+this is giri.this is a way to render a file
+into this file
